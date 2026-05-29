@@ -2,9 +2,7 @@
 
 A tiny status page for people who don't live in the same city as their parents.
 
-Instead of sharing your live location, it maps your day into plain language your family can actually understand — "at the gym", "sleeping", "at the movies" — and serves it as a clean webpage they can bookmark.
-
-**Live demo:** [statuskv.tr-sriharsha.workers.dev](https://statuskv.tr-sriharsha.workers.dev)
+Instead of sharing your live location, it maps your day into plain language your family can actually understand, "at the gym", "sleeping", "at the movies" — and serves it as a clean webpage they can bookmark.
 
 ---
 
