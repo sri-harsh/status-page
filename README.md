@@ -4,6 +4,9 @@ A tiny status page for people who don't live in the same city as their parents.
 
 Instead of sharing your live location, it maps your day into plain language your family can actually understand, "at the gym", "sleeping", "at the movies" — and serves it as a clean webpage they can bookmark.
 
+<img width="1599" height="901" alt="Photos Library" src="https://github.com/user-attachments/assets/28a1ce44-c871-4020-8e72-e145cfba26b9" />
+
+
 ---
 
 ## How it works
@@ -16,6 +19,7 @@ iPhone trigger (location / card tap / WiFi / time)
 ```
 
 Runs entirely free on Cloudflare. No app, no subscription, no server to maintain.
+<img width="2125" height="1313" alt="sri_status_architecture_v3 (1)" src="https://github.com/user-attachments/assets/bba49e0a-ddd1-4403-a788-7954fe767098" />
 
 ---
 
