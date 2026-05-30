@@ -2,7 +2,7 @@
 
 A tiny status page for people who don't live in the same city as their parents.
 
-Instead of sharing your live location, it maps your day into plain language your family can actually understand, "at the gym", "sleeping", "at the movies" — and serves it as a clean webpage they can bookmark.
+Instead of sharing your live location, it maps your day into plain language your family can actually understand, "at the gym", "sleeping", "at the movies" - and serves it as a clean webpage they can bookmark.
 
 <img width="1599" height="901" alt="Photos Library" src="https://github.com/user-attachments/assets/28a1ce44-c871-4020-8e72-e145cfba26b9" />
 
@@ -62,7 +62,7 @@ Add or remove statuses by editing the `STATUSES` object in `worker.js`.
 1. Worker → **Settings → Variables and Secrets → Add**
    - Type: **Secret**
    - Name: `SECRET`
-   - Value: any random string (e.g. `my-secret-abc123`) — save this, you'll need it
+   - Value: any random string (e.g. `my-secret-abc123`) - save this, you'll need it
 
 ### 4. Customize
 
@@ -96,7 +96,7 @@ Create one Shortcut per status:
 | Arrive at gym / pool / court | `gym` / `swimming` / `badminton` |
 
 ### Tip on battery
-These Shortcuts only fire on a trigger — not constantly polling your location like Find My. Anecdotally easier on battery.
+These Shortcuts only fire on a trigger, not constantly polling your location like Find My. Anecdotally easier on battery.
 
 ---
 
